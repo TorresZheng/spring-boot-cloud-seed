@@ -1,0 +1,10 @@
+﻿spring-cloud 种子项目
+使用spring boot  cloud
+运行环境 jdk1.7 Intelj idea 2017
+spring boot 项目为下载自官网
+构建spring cloud 项目 ,涉及pom文件修改,具体内容见pom文件,配置见properties 文件
+两个项目一个为服务端,一个为客户端
+
+QQ:543603063
+
+
